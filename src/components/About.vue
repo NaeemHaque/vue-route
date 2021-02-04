@@ -1,0 +1,8 @@
+<template>
+    <div>
+        <h2>About Us</h2>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita accusantium aliquid sit culpa possimus officiis ad illum eveniet corrupti, voluptate pariatur facere error facilis, cum, earum unde! Quidem iusto ex vero dolore magnam consectetur maiores consequatur maxime ipsum consequuntur? Distinctio vero nesciunt quaerat, sapiente quas non facilis vel nihil nemo. Ad, cupiditate alias voluptatibus dignissimos, quos autem blanditiis reprehenderit ullam fugit praesentium optio iusto inventore. Laboriosam, voluptatibus incidunt quasi perferendis eaque excepturi aliquid. Vel autem enim eveniet accusamus ipsum, amet et iste dolor eius sequi labore eum dolorum repellendus dicta saepe totam perspiciatis iure dolore magni quae incidunt exercitationem quaerat? Enim quos quo expedita asperiores voluptatum a velit. Maiores porro quas nihil voluptas similique alias assumenda temporibus unde corporis a, officiis dignissimos mollitia incidunt amet, eius numquam sunt, sapiente impedit voluptatem! Deserunt hic nostrum eveniet? Sapiente porro sed nesciunt numquam similique dolore explicabo iusto vel doloribus vitae quo ab veniam, eveniet nulla fuga, aliquid in itaque neque sunt consequatur repellendus voluptatem perspiciatis! Possimus similique excepturi cum omnis architecto consequuntur sit, vero est. Placeat, delectus praesentium laborum quis nesciunt eaque? Nesciunt ab aperiam voluptatibus aliquid possimus libero quia architecto magnam voluptatum itaque est a nobis corporis tenetur ut, labore nostrum repudiandae!
+        </p>
+        
+    </div>
+</template>
